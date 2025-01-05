@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub Organization for **Aifrica**, an innovative AI initiative powered by blockchain technology to support children and people in Africa. Our mission is to leverage Artificial Intelligence and decentralized solutions to create meaningful, lasting impacts in underprivileged communities across the continent.
 
+## CA: J6Kmo5AmKpUz5kvfkFBQY9Ux7MUnduyXTFAu14Qgpump
+
 ## About Aifrica
 Aifrica is a groundbreaking platform built on Solana, combining the power of AI and cryptocurrency to:
 
